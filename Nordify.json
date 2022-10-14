@@ -32,8 +32,8 @@
 		"INTERACTIVE_NORMAL": ["#D8DEE9", "#5E81AC"],
 		"TEXT_NORMAL": ["#FFFFFF", "#000000"],
 		"TEXT_MUTED": ["#D8DEE9", "#5E81AC"],
-		"TEXT_LINK": ["#88C0D0", "#8FBCBB"],
-		"CHANNEL_ICON": ["#D8DEE9", "#5E81AC"]
+		"TEXT_LINK": ["#d8dee9", "#8FBCBB"],
+		"CHANNEL_ICON": ["#d8dee9", "#5E81AC"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#bfbfbf",
